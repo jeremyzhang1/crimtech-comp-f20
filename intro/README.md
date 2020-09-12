@@ -64,7 +64,7 @@ At this step, Git may ask you to set your username/email. If so, follow those in
 The change you just made is still living on your local machine. How do you upload them to GitHub?
 Run the command `git push`. Then, go onto your github repository. You should see some changes there!
 
-## I. Subit
+## I. Submit
 There should be a button now called "pull request" or "make pull request". Click on it!
 
 Put in a title and a description, which can be anything you want. Then, hit "open pull request" or something like that.
